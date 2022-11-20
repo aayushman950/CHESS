@@ -1,0 +1,3 @@
+# project-chess
+
+qt,c++
